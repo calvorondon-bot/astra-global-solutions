@@ -1,6 +1,6 @@
 # Astra Global Solutions — Sitio web
 
-Sitio estático de una sola página para **Astra Global Solutions**, un ecosistema de empresas aliadas (PandoLab, Nexo, A+, Decimetrix e Inversora Latinoamericana de Proyectos) que ofrece soluciones integrales a instituciones públicas y privadas en tecnología, logística, comunicación corporativa, transformación digital y gestión de proyectos.
+Sitio estático de una sola página para **Astra Global Solutions**, un ecosistema de empresas  que ofrece soluciones integrales a instituciones públicas y privadas en tecnología, logística, comunicación corporativa, transformación digital y gestión de proyectos.
 
 ## Propósito
 
