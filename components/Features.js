@@ -22,8 +22,7 @@ function Features() {
     <div class="text">
       <div class="title fw-bold text-center">Tecnología e inteligencia artificial</div>
       <div class="description text-center">
-        Digitalización de procesos, desarrollos a medida y productos de data,
-        de la mano de PandoLab.
+        Digitalización de procesos, desarrollos a medida y productos de data.
       </div>
     </div>
   </div>
@@ -34,8 +33,7 @@ function Features() {
     <div class="text">
       <div class="title fw-bold text-center">Logística y comercio internacional</div>
       <div class="description text-center">
-        Importación y soft landing comercial para operar en nuevos mercados,
-        con Nexo.
+        Importación y soft landing comercial para operar en nuevos mercados.
       </div>
     </div>
   </div>
@@ -58,8 +56,7 @@ function Features() {
     <div class="text">
       <div class="title fw-bold text-center">Transformación digital e ingeniería</div>
       <div class="description text-center">
-        City developer, inspección técnica y eficiencia en energía y petróleo,
-        con nuestro aliado internacional Decimetrix.
+        City developer, inspección técnica y eficiencia en energía y petróleo.
       </div>
     </div>
   </div>
