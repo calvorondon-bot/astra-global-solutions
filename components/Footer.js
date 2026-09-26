@@ -13,8 +13,8 @@ function Footer() {
             <div class="nav-links d-flex flex-column mt-4">
               <ul class="nav justify-content-left row-1">
                 <li class="nav-item">
-                  <a class="nav-link active" aria-current="page" href="mailto:lfernandes@astraglobal360.net"
-                    >info@astraglobal360.net</a
+                  <a class="nav-link active" aria-current="page" href="mailto:info@astraglobalgroup.com"
+                    >info@astraglobalgroup.com</a
                   >
                 </li>
                <li class="nav-item">
